@@ -1,6 +1,10 @@
-## Your Name
+## Ket Patel
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a passionate and dedicated software engineer with a deep love for coding and a strong drive for learning. 
+
+With my diverse work experience in retail, film making, and business ownership, I have developed exceptional problem-solving abilities and quick thinking, an acute attention to detail, and the ability to handle high-pressure situations with calmness and precision.
+
+I am excited to contribute to the tech community where I can leverage my skills to work on cutting-edge projects. With a growth mindset and an insatiable curiosity, I am ready to take on new challenges, learn from my peers, and make a meaningful impact.
 
 ## Projects
 
